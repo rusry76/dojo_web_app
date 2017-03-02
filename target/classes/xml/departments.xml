@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlDepartmentCollection>
+    <departments>
+        <departments>
+            <id>0</id>
+            <depFullName>Information Technology</depFullName>
+            <depShortName>IT</depShortName>
+            <Person>
+                <id>0</id>
+                <lastName>Renatov</lastName>
+                <firstName>Renat</firstName>
+                <patronymicName>Renatovich</patronymicName>
+                <workPosition>Director</workPosition>
+            </Person>
+            <phones>
+                <phone>111111</phone>
+                <phone>222222</phone>
+                <phone>333333</phone>
+                <phone>444444</phone>
+            </phones>
+        </departments>
+        <departments>
+            <id>0</id>
+            <depFullName>Department of Transport</depFullName>
+            <depShortName>TD</depShortName>
+            <Person>
+                <id>0</id>
+                <lastName>Eniseev</lastName>
+                <firstName>Enisej</firstName>
+                <patronymicName>Eniseevich</patronymicName>
+                <workPosition>Director</workPosition>
+            </Person>
+            <phones>
+                <phone>111111</phone>
+                <phone>222222</phone>
+                <phone>333333</phone>
+                <phone>444444</phone>
+            </phones>
+        </departments>
+        <departments>
+            <id>0</id>
+            <depFullName>Department of Economic</depFullName>
+            <depShortName>ED</depShortName>
+            <Person>
+                <id>0</id>
+                <lastName>Lukov</lastName>
+                <firstName>Luk</firstName>
+                <patronymicName>Lukovich</patronymicName>
+                <workPosition>Director</workPosition>
+            </Person>
+            <phones>
+                <phone>111111</phone>
+                <phone>222222</phone>
+                <phone>333333</phone>
+                <phone>444444</phone>
+            </phones>
+        </departments>
+        <departments>
+            <id>0</id>
+            <depFullName>Department of Security</depFullName>
+            <depShortName>SD</depShortName>
+            <Person>
+                <id>0</id>
+                <lastName>Smorodina</lastName>
+                <firstName>Smorodina</firstName>
+                <patronymicName>Smorodivna</patronymicName>
+                <workPosition>Director</workPosition>
+            </Person>
+            <phones>
+                <phone>111111</phone>
+                <phone>222222</phone>
+                <phone>333333</phone>
+                <phone>444444</phone>
+            </phones>
+        </departments>
+    </departments>
+</xmlDepartmentCollection>

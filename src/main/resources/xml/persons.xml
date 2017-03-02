@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlPersonCollection>
+    <persons>
+        <person>
+            <id>0</id>
+            <lastName>Yushenkov</lastName>
+            <firstName>Daniil</firstName>
+            <patronymicName>Vsevolodovich</patronymicName>
+            <workPosition>Developer</workPosition>
+        </person>
+        <person>
+            <id>0</id>
+            <lastName>Maksimov</lastName>
+            <firstName>Maksim</firstName>
+            <patronymicName>Ivanovich</patronymicName>
+            <workPosition>Analitic</workPosition>
+        </person>
+        <person>
+            <id>0</id>
+            <lastName>Konuhova</lastName>
+            <firstName>Olesya</firstName>
+            <patronymicName>Victorovna</patronymicName>
+            <workPosition>Support</workPosition>
+        </person>
+        <person>
+            <id>0</id>
+            <lastName>Hairulin</lastName>
+            <firstName>Timur</firstName>
+            <patronymicName>Radikovich</patronymicName>
+            <workPosition>Support</workPosition>
+        </person>
+        <person>
+            <id>0</id>
+            <lastName>Tirunov</lastName>
+            <firstName>Eldar</firstName>
+            <patronymicName>Bulatovich</patronymicName>
+            <workPosition>Support</workPosition>
+        </person>
+    </persons>
+</xmlPersonCollection>

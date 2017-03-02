@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dojoWebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dojoWebApp.war">
+      <element id="artifact" artifact-name="dojoWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
